@@ -3,3 +3,4 @@ let name = "Adnan";
 function myName() {
   console.log("my name", name);
 }
+myName();
