@@ -23,3 +23,6 @@ function feature() {
 function feature2() {
   console.log("one more feature");
 }
+function c() {
+  console.log("c features");
+}
