@@ -9,3 +9,8 @@ function second() {
 }
 
 myName();
+
+function newFeature() {
+  console.log("This is a new feature in our app");
+}
+newFeature();
