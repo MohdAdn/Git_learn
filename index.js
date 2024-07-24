@@ -12,5 +12,6 @@ myName();
 
 function newFeature() {
   console.log("This is a new feature in our app");
+  console.log("Added one more festure");
 }
 newFeature();
