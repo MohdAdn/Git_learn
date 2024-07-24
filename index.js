@@ -20,3 +20,6 @@ console.log("Added new branch feature");
 function feature() {
   console.log("feature");
 }
+function feature2() {
+  console.log("one more feature");
+}
