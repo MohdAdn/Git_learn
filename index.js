@@ -16,3 +16,7 @@ function newFeature() {
 }
 newFeature();
 console.log("Added new branch feature");
+
+function feature() {
+  console.log("feature");
+}
